@@ -46,7 +46,7 @@ echo "export PATH=$HOME/bmp_win/:$PATH" >> $HOME/.bashrc
 source $HOME/.bashrc
 
 #put fastq-join in the PATH
-echo "export PATH=$HOME/fastq-join/fastq-join:$PATH" >> $HOME/.bashrc
+echo "export PATH=$HOME/fastq-join/:$PATH" >> $HOME/.bashrc
 source $HOME/.bashrc
 
 #put RDP in the PATH
