@@ -22,7 +22,7 @@ pip install qiime
 #Install h5py
 pip install h5py
 
-#Install R (pediu senha)
+#Install R
 apt-get install r-base -y
 
 #Install Java
@@ -54,5 +54,6 @@ source $HOME/.bashrc
 echo "export RDP_JAR_PATH=$HOME/bmp_win/rdp_classifier_2.2/rdp_classifier-2.2.jar" >> $HOME/.bashrc
 source $HOME/.bashrc
 
-#atualizar o .bashrc 
-export DISPLAY=:0
+#update ".bashrc"
+echo "export DISPLAY=:0" >> $HOME/.bashrc
+source $HOME/.bashrc
