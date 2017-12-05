@@ -12,7 +12,7 @@ BTW package installation instructions can be found at http://www.brmicrobiome.or
 
 # Getting Help
 
-Please contact us: *contact@brmicrobiome.org
+Please contact us: *contact@brmicrobiome.org*
 
 
 # BTW Team
