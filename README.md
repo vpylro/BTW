@@ -1,4 +1,4 @@
-# BTW - Bioinformatics Through the Windows
+# BTW - Bioinformatics Through Windows
 
 
 # Introduction
@@ -12,7 +12,7 @@ BTW package installation instructions can be found at http://www.brmicrobiome.or
 
 # Getting Help
 
-Please contact us: contact@brmicrobiome.org
+Please contact us: *contact@brmicrobiome.org
 
 
 # BTW Team
@@ -23,11 +23,15 @@ Fausto Gonçalves dos Santos (René Rachou Research Center - Brazil)
 
 Luiz Fernando Wurdig Roesch (Universidade Federal do Pampa - Brazil)
 
+Marc Redmile-Gordon (Natural England - United Kingdom)
+
 Petr Baldrian (Institute of Microbiology of the Czech Academy of Sciences - Czech Republic)
+
+Fernando Dini Andreote (ESALQ/USP - Brazil)
 
 Victor Satler Pylro (ESALQ/USP - Brazil)
 
 
 # Citation
 
-BTW - Bioinformatics Through the Windows: a easy-to-install package to analyze 16S rRNA data on the Windows Subsystem for Linux (WSL). (Submitted).
+BTW – Bioinformatics Through Windows: an easy-to-install package to analyze 16S rRNA data. (Submitted)
