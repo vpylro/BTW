@@ -1,7 +1,6 @@
 #!/bin/sh
 
-#go to the $HOME directory
-cd
+#BTW - Bioinformatics Through Windows
 
 #Update and upgrade Ubuntu
 apt-get update -y
