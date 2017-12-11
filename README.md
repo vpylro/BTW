@@ -3,7 +3,7 @@
 
 # Introduction
 
-BTW a fully automated and easy-to-install package as well as a complete easy to follow pipeline for microbial metataxonomic analysis in the Windows Subsystem for Linux (WSL). BTW combines several open-access tools for processing 16S rRNA data bringing the user from raw sequencing reads to diversity-related conclusions. It includes data quality filtering, clustering, taxonomic assignment and further statistical analyses, directly in the WSL, avoiding the prior need of migrating from Windows to Linux. BTW is expected to boost the use of NGS amplicon data by facilitating rapid access to bioinformatics tools for Windows users. 
+BTW a fully automated and easy-to-install package as well as a complete easy to follow pipeline for microbial metataxonomic analysis in the Windows Subsystem for Linux (WSL). BTW combines several open-access tools for processing 16S rRNA data, providing the users with a complete workflow from raw sequencing reads to diversity-related conclusions. It includes data quality filtering, clustering, taxonomic assignment and further statistical analyses, directly in the WSL, avoiding the prior need of migrating from Windows to Linux. BTW is expected to boost the use of NGS amplicon data by facilitating rapid access to bioinformatics tools for Windows users. 
 
 
 # Installing BTW
