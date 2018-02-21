@@ -45,7 +45,7 @@ cd ..
 cp fastq-join/fastq-join bmp_win/
 
 #put programs folder in the PATH
-echo "export PATH=$HOME/bmp_win/:$PATH" >> $HOME/.bashrc
+echo "export PATH=$HOME/bmp_win:$PATH" >> $HOME/.bashrc
 
 #put RDP in the PATH
 echo "export RDP_JAR_PATH=$HOME/bmp_win/rdp_classifier_2.2/rdp_classifier-2.2.jar" >> $HOME/.bashrc
