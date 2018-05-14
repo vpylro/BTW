@@ -9,6 +9,18 @@ BTW a fully automated and easy-to-install package as well as a complete easy to 
 # Installing BTW
 BTW package installation instructions can be found at http://www.brmicrobiome.org/tutorialbtw (steps 6 and 7).
 
+*Installing the BTW package*
+
+- Open the installed Ubuntu on Windows. 
+
+- In the terminal, type: wget https://raw.githubusercontent.com/vpylro/BTW/master/win_bmp.sh
+
+- Then type: sudo bash win_bmp.sh as below. Your UNIX account password will be requested. Type you password and then ENTER.
+The BTW package will be installed automatically. This may take several minutes, depending on your computer and internet connection speeds.
+
+- After finish installing, close the Ubuntu and open it again.
+The BMP recommended pipeline for 16S rRNA data analyses is available at http://www.brmicrobiome.org/win16s
+
 
 # Getting Help
 
