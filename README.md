@@ -13,9 +13,13 @@ BTW package installation instructions can be found at http://www.brmicrobiome.or
 
 - Open the installed Ubuntu on Windows. 
 
-- In the terminal, type: wget https://raw.githubusercontent.com/vpylro/BTW/master/win_bmp.sh
+- In the terminal, type: 
+wget https://raw.githubusercontent.com/vpylro/BTW/master/win_bmp.sh
 
-- Then type: sudo bash win_bmp.sh as below. Your UNIX account password will be requested. Type you password and then ENTER.
+- Then type: 
+sudo bash win_bmp.sh 
+
+Your UNIX account password will be requested. Type you password and then ENTER.
 The BTW package will be installed automatically. This may take several minutes, depending on your computer and internet connection speeds.
 
 - After finish installing, close the Ubuntu and open it again.
