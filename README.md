@@ -50,4 +50,4 @@ Victor Satler Pylro (ESALQ/USP - Brazil)
 
 # Citation
 
-BTW – Bioinformatics Through Windows: an easy-to-install package to analyze 16S rRNA data. (Submitted)
+BTW – Bioinformatics Through Windows: an easy-to-install package to analyze marker gene data. (Submitted)
