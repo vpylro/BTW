@@ -50,4 +50,4 @@ Victor Satler Pylro (ESALQ/USP - Brazil)
 
 # Citation
 
-BTW – Bioinformatics Through Windows: an easy-to-install package to analyze marker gene data. (Submitted)
+Morais et al. (2018), BTW—Bioinformatics Through Windows: an easy-to-install package to analyze marker gene data. PeerJ 6:e5299; DOI 10.7717/peerj.5299.
