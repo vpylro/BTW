@@ -13,3 +13,5 @@ apt-get install python3-pip -y
 wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh -O miniconda.sh
 bash miniconda.sh -b -p miniconda3
 miniconda3/bin/conda init
+echo "export PATH=$HOME/miniconda3/bin:$PATH" >> .bashrc
+source ~/.bashrc
