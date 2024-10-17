@@ -1,4 +1,4 @@
-# BTW - Bioinformatics Through Windows
+# BTW - Bioinformatics Through Windows 2.0
 
 
 # Introduction
@@ -21,7 +21,7 @@ sudo bash conda.sh
 
 Your UNIX account password will be requested. Type your password and then ENTER.
 
->Please close the terminal section and reopen it.<
+>Please close the terminal section and reopen it.
 
 - In the terminal, type: 
 wget https://raw.githubusercontent.com/vpylro/BTW/master/win_bmp.sh
