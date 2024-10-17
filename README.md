@@ -24,10 +24,10 @@ Your UNIX account password will be requested. Type your password and then ENTER.
 >Please close the terminal section and reopen it.
 
 - In the terminal, type: 
-wget https://raw.githubusercontent.com/vpylro/BTW/master/win_bmp.sh
+wget https://raw.githubusercontent.com/vpylro/BTW/master/win_bmp2.sh
 
 - Then type: 
-sudo bash win_bmp.sh 
+sudo bash win_bmp2.sh 
 
 Your UNIX account password will be requested. Type your password and then ENTER.
 The BTW package will be installed automatically. This may take several minutes, depending on your computer and internet connection speeds.
