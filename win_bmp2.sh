@@ -6,9 +6,9 @@
 sudo apt-get install -y python3-pip wget git make python3-tk r-base default-jre vim-gtk3
 
 # Create a qiime1 env
-conda create -n btw python=2.7 -y
+conda create -n btw python=2.7 matplotlib=1.5.3 -y
 conda activate btw
-conda install -c conda-forge -c bioconda qiime=1.9.1 matplotlib=1.5.3 -y
+conda install -c conda-forge -c bioconda qiime=1.9.1 -y
 conda install -c conda-forge libgfortran=3 -y
 
 # Download programs folder
