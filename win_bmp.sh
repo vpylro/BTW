@@ -7,22 +7,13 @@ apt-get update -y
 apt-get upgrade -y
 
 #Install pip
-apt-get install python-pip -y
+apt-get install python3-pip -y
 
-#Upgrade pip
-pip install --upgrade pip
-
-#Install python-tk (essential to Qiime installation)
-apt-get install python-tk -y
-
-#Install Numpy
-pip install Numpy
-
-#Install Qiime 1.9
-pip install qiime
-
-#Install h5py
-pip install h5py
+#create a qiime1 env
+conda create -n qiime1 python=2.7 -y
+conda activate qiime1
+conda install -c conda-forge -c bioconda qiime=1.9.1 -y
+conda install -c conda-forge libgfortran=3 -y
 
 #Install R
 apt-get install r-base -y
@@ -31,7 +22,7 @@ apt-get install r-base -y
 apt install default-jre -y
 
 #graphical
-apt-get install vim-gtk -y
+apt-get install vim-gtk3 -y
 
 #Download programs folder
 wget https://github.com/vpylro/BioME/raw/master/bmp_win.tar.gz
