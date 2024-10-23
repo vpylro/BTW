@@ -37,7 +37,7 @@ The BMP-recommended pipeline for 16S rRNA data analyses is available at http://w
 
 > Data example for 16S tutorial
 
-wget: https://drive.google.com/drive/folders/1ZlnJXWnPPPLvDcKLUAkk--QF2AjwPGg-?usp=sharing
+wget https://drive.google.com/drive/folders/1ZlnJXWnPPPLvDcKLUAkk--QF2AjwPGg-?usp=sharing
 
 # Getting Help
 
