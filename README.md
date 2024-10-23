@@ -35,6 +35,9 @@ The BTW package will be installed automatically. This may take several minutes, 
 - After completing the installation, please close Ubuntu and reopen it.
 The BMP-recommended pipeline for 16S rRNA data analyses is available at http://www.brmicrobiome.org/win16s
 
+> Data example for 16S tutorial
+
+wget: https://drive.google.com/drive/folders/1ZlnJXWnPPPLvDcKLUAkk--QF2AjwPGg-?usp=sharing
 
 # Getting Help
 
